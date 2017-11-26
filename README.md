@@ -1,7 +1,7 @@
 # frontend-education
 
 1. Tools (20%)
-    1. **Webpack**, (3-4 days)
+    1. **Webpack** (3-4 days)
         * https://webpack.js.org
         * http://bogdanov-blog.ru/vvedenie-v-webpack-chast-1/
         * http://bogdanov-blog.ru/vvedenie-v-webpack-chast-2/
