@@ -4,13 +4,13 @@
     1. **Webpack**, (3-4 days)
         * https://webpack.js.org
         * http://bogdanov-blog.ru/vvedenie-v-webpack-chast-1/
-
-  http://bogdanov-blog.ru/vvedenie-v-webpack-chast-2/
+        * http://bogdanov-blog.ru/vvedenie-v-webpack-chast-2/
         * https://habrahabr.ru/post/309306
     1. ~~Grunt~~/Gulp (2-3 days)
         * https://gruntjs.com
         * https://gulpjs.com/
     1. npm/**yarn** (1-2 days)
+        * https://yarnpkg.com
     1. git
     1. CI (jenkins and so on..., 1 day) 
 1. Core (20%)
@@ -23,6 +23,9 @@
         * https://babeljs.io/learn-es2015/
         * http://exploringjs.com/es6/index.html
     1. ES2016 - ES2018
+        * http://2ality.com/2016/01/ecmascript-2016.html
+        * http://2ality.com/2016/02/ecmascript-2017.html
+        * http://2ality.com/2017/02/ecmascript-2018.html
         * http://exploringjs.com/es2016-es2017/index.html
 1. Angular 1 (10%)
     * https://angularjs.org/ *(Guide, Tutorial)*
@@ -48,6 +51,6 @@
     * https://monsterlessons.com
     * js modules
       * https://wp.tuhub.ru/frontend/javascript-moduli-rukovodstvo-dlya-nachinayushhih/
-        https://tuhub.ru/frontend/javascript-moduli-chast-2-sborka-modulej/
+      * https://tuhub.ru/frontend/javascript-moduli-chast-2-sborka-modulej/
 
 
