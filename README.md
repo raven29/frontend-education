@@ -22,6 +22,7 @@
         * http://es6-features.org
         * https://babeljs.io/learn-es2015/
         * http://exploringjs.com/es6/index.html
+        * https://learn.javascript.ru/es-modern
     1. ES2016 - ES2018
         * http://2ality.com/2016/01/ecmascript-2016.html
         * http://2ality.com/2016/02/ecmascript-2017.html
