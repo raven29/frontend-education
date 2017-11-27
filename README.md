@@ -34,7 +34,7 @@
         * http://2ality.com/2016/02/ecmascript-2017.html
         * http://2ality.com/2017/02/ecmascript-2018.html
         * http://exploringjs.com/es2016-es2017/index.html
-1. Angular 1 (10%)
+1. ~~Angular 1~~ (10%)
     * https://angularjs.org/ *(Guide, Tutorial)*
     * https://habrahabr.ru/post/250637
 1. **Angular 2-5** (25%) _[or alternatively **React** (15%) + **Redux** (10%)]_
