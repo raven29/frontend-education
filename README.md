@@ -14,7 +14,7 @@
     1. Yeoman/Fountain [scaffolding] (0.5 days)
         * http://yeoman.io/
         * http://fountainjs.io/
-    1. npm/**yarn** [package manager, tusk runner] (1-2 days)
+    1. npm/**yarn** [package manager, task runner] (1-2 days)
         * https://yarnpkg.com
     1. git
     1. CI (jenkins and so on..., 1 day) 
