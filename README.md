@@ -37,7 +37,7 @@
 1. Angular 1 (10%)
     * https://angularjs.org/ *(Guide, Tutorial)*
     * https://habrahabr.ru/post/250637
-1. Angular 2-5 (25%) *[or alternatively React (15%) + Redux (10%)]*
+1. **Angular 2-5** (25%) _[or alternatively **React** (15%) + **Redux** (10%)]_
     1. TypeScript (3-4 days)
         * https://www.tutorialspoint.com/typescript/index.htm
         * https://www.typescriptlang.org/docs/handbook/basic-types.html
