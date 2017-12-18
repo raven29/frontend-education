@@ -21,6 +21,7 @@
 1. Core (20%)
     * https://learn.javascript.ru
     * http://speakingjs.com/es5/index.html
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript
 1. **ES6** (15%)
     1. Babel (0.5 day)
         * https://babeljs.io/
